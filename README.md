@@ -42,4 +42,4 @@ Happy **Grinding**! (Both you and me :grin: :triumph:	)
 
 Screenshot of Command Line:
 
-![Image of Command Line](https://github.com/csci3250-2019/student-1155108661/blob/master/command.png)
+![Image](https://github.com/csci3250-2019/student-1155108661/blob/master/command.png)
