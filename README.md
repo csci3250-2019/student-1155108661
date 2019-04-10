@@ -42,5 +42,4 @@ Happy **Grinding**! (Both you and me :grin: :triumph:	)
 
 Screenshot of Command Line:
 
-![Image of Command Line]
-(https://github.com/csci3250-2019/student-1155108661/blob/master/Screen%20Shot%202019-04-10%20at%2012.45.56%20PM.png)
+![Image of Command Line](https://github.com/csci3250-2019/student-1155108661/blob/master/command.png)
